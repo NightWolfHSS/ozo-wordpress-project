@@ -17,3 +17,19 @@ function showMenu() {
 	}
 }
 
+
+
+
+
+// // // generate callback 
+// function generate_event(arg, callback) {
+// 	callback("Slavik" + " \neach other item")
+// }	
+
+
+// // callback 
+// function run_e_callback(name = "default") {
+// 	console.log('i can see you again \n' + name)
+// }
+
+// generate_event("can you see there args", run_e_callback)
