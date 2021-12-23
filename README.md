@@ -2,6 +2,7 @@
 project in wordpress - ozo
 
 project used other technologes 
-practice/// just practice
+just practice 
+wp- template
 
 version 2.3.4
